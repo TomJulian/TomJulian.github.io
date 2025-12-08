@@ -1,65 +1,123 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dr Tom Julian",
+    "label": "Academic Ophthalmologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "thomas.julian@manchester.ac.uk",
+#    "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am an academic ophthalmologist working at the intersection of deep learning, medical imaging, and multi-omic analyses. As a clinician with experience developing deep learning models and omics analysis pipelines, I am well positioned to lead and deliver clinically important research using advanced methods.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "The Christabel Pankhurst Building, The University of Manchester, Dover St",
+      "postalCode": "M13 9PS",
+      "city": "Manchester",
+      "countryCode": "UK"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/thomas-julian-3ab293210/"
+      }
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=dZLN9mQAAAAJ&view_op=list_works&sortby=pubdate"
+      }
+      {
+        "network": "X",
+        "username": "TomJulian18",
+        "url": "https://x.com/TomJulian18"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "University of Manchester & Manchester Royal Eye Hospital",
+      "position": "Research Fellow & Ophthalmology Resident Doctor",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "August 2021 onwards",
+      "summary": "In my clinical role, I work in surgical, clinic and emergency settings at Manchester Royal Eye Hospital. In my academic role, I deliver clinically focussed research using (1) medical image analysis and (2) multi-omic analyses.",
+      "highlights": ["Ophthalmology", "Deep Learning", "Genomics", "Metabolomics", "Causal Inference"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+#  "volunteer": [
+#    {
+#      "organization": "People's Climate March",
+#      "location": "Zurich, Switzerland",
+#      "position": "Lead Organizer",
+#      "url": "https://example.com",
+#      "startDate": "2014-04-01",
+#      "endDate": "2015-07-01",
+#      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+#      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      {
+      "institution": "University of Manchester",
+      "location": "Manchester, U.K",
+      "url": "https://www.manchester.ac.uk/",
+      "area": "Artificial Intellgience in Ophthalmology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "August 2024",
+      "endDate": "In Progress",
+      "summary": "I am currently undertaking a PhD in which I am integrating deep learning approaches (e.g. autoencoders, latent diffusion models, GANs, LLMs) and omics data (e.g. genomics and metabolomics) to explore clinical questions surrounding the role of ophthalmic imaging in ocular and systemic health.",
+    }   
+    {
+      "institution": "University of Sheffield",
+      "location": "Sheffield, U.K",
+      "url": "https://sheffield.ac.uk/",
+      "area": "Clinical Research",
+      "studyType": "PGCert",
+      "startDate": "August 2019",
+      "endDate": "August 2021",
+      "summary": "I developed skills to critically evaluate research and handle the practical and regulatory challenges of designing and conducting clinical and health research projects.",
+    }    
+    {
+      "institution": "University of Sheffield",
+      "location": "Sheffield, U.K",
+      "url": "https://sheffield.ac.uk/",
+      "area": "Medicine and Surgery",
+      "studyType": "MBChB",
+      "startDate": "August 2013",
+      "endDate": "August 2021",
+      "summary": "I completed my medical degree and subsequently received my license to practice as a medical doctor. During my studies, I held additional responsibilities including serving as President of Sheffield Medical Society; lecturing and small group mentorship to first year students in the MBChB programme; and serving on every Medical School Faculty steering group. In recognition of my roles, I won the Outstanding Student Contribution Award at the Annual Academic Awards (2018) and was recognised as an Associate Fellow of the Higher Education Academy (2018).",
+    } 
+    {
+      "institution": "University of Sheffield",
+      "location": "Sheffield, U.K",
+      "url": "https://sheffield.ac.uk/",
+      "area": "Clinical Neurology",
+      "studyType": "MSc",
+      "startDate": "August 2017",
+      "endDate": "August 2018",
+      "Grade": "Distinction, with the joint-highest overall exam score in my cohort.",
+      "summary": "I studied neurological disease and how clinical research breakthroughs are translated into treatments. I utilised my research block to undertake evidence synthesis projects.",
     }
+
   ],
   "awards": [
     {
+      "title": "Best Oral Presentation",
+      "date": "09/06/2023",
+      "awarder": "The UK Eye Genetics Group (UK-EGG)",
+      "url": "https://ukegg.com/",
+      "summary": "I won the best oral presentation prize at the UK-EGG annual conference for my causal inference work in age-related macular degeneration and glaucoma.'"
+    }
+        {
+      "title": "Best Oral Presentation",
+      "date": "13/07/2023",
+      "awarder": "Manchester Vision Network (MVN)",
+      "url": "https://sites.manchester.ac.uk/manchester-vision-network/",
+      "summary": "I won the best oral presentation prize at the MVN annual conference for my causal inference work in age-related macular degeneration.'"
+    }
+        {
+      "title": "Best Poster Presentation",
+      "date": "16/06/2022",
+      "awarder": "The Integrated Clinical Academic Training Symposium",
+      "url": "https://sites.manchester.ac.uk/icat/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+        {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
