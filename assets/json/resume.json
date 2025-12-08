@@ -43,7 +43,7 @@
       "institution": "University of Manchester",
       "location": "Manchester, U.K",
       "url": "https://www.manchester.ac.uk/",
-      "area": "Artificial Intellgience in Ophthalmology",
+      "area": "Artificial Intelligence in Ophthalmology",
       "studyType": "PhD",
       "startDate": "08.2024",
       "endDate": "In Progress",
@@ -87,21 +87,21 @@
       "date": "09/06/2023",
       "awarder": "The UK Eye Genetics Group (UK-EGG)",
       "url": "https://ukegg.com/",
-      "summary": "I won the best oral presentation prize at the UK-EGG annual conference for my causal inference work in age-related macular degeneration and glaucoma.'"
+      "summary": "I won the best oral presentation prize at the UK-EGG annual conference for my causal inference work in age-related macular degeneration and glaucoma."
     },
         {
       "title": "Best Oral Presentation",
       "date": "13/07/2023",
       "awarder": "Manchester Vision Network (MVN)",
       "url": "https://sites.manchester.ac.uk/manchester-vision-network/",
-      "summary": "I won the best oral presentation prize at the MVN annual conference for my causal inference work in age-related macular degeneration.'"
+      "summary": "I won the best oral presentation prize at the MVN annual conference for my causal inference work in age-related macular degeneration."
     },
         {
       "title": "Best Poster Presentation",
       "date": "16/06/2022",
       "awarder": "The Integrated Clinical Academic Training Symposium",
       "url": "https://sites.manchester.ac.uk/icat/",
-      "summary": "I won the best poster prize for my Mendelian randomisation work in age-related macular degeneration.'"
+      "summary": "I won the best poster prize for my Mendelian randomisation work in age-related macular degeneration."
     },
         {
       "title": "Outstanding Contribution Award",
@@ -165,24 +165,24 @@
       ]      
     }
   ],
-  "Grant Awards": [
+  "Grants": [
     {
       "funder": "Medical Research Council, Clinical Research Training Fellowship",
       "summary": "This grant is supporting me to undertake a PhD focussed on the role of deep learning for systemic disease prediction using Ophthalmic imaging.",
       "value": "£288,251",
-      "award date": "13.03.2024"
+      "date": "13.03.2024"
     },
         {
       "funder": "National Institute for Health Research, Manchester Biomedical Research Council",
       "summary": "This grant served to contribute toward to development of a large Ophthalmic imaging cohort based in Manchester.",
       "value": "£25,000",
-      "award date": "27.02.2024"
+      "date": "27.02.2024"
     },
         {
       "funder": "The Wellcome Trust, Wellcome Institutional Strategic Support Fund",
       "summary": "This grant funded causal inference work undertaken in the domains of glaucoma and age-related macular degeneration.",
       "value": "£23,500",
-      "award date": "10.03.2022"
+      "date": "10.03.2022"
     }    
   ]
 }
