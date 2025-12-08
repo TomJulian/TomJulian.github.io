@@ -1,52 +1,60 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign volunteer = data[1] | sort: 'startDate' | reverse %}
-  {% for content in volunteer %}
+  {%- assign grants = data[1] | sort: 'date' | reverse -%}
+  {%- for grant in grants -%}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
-          {% else %}
-            {% assign date = '' %}
-          {% endif %}
+          {%- if grant.awardDate -%}
+            {%- comment -%}
+              awardDate expected as YYYY-MM or YYYY-MM-DD
+            {%- endcomment -%}
+            {%- assign parts = grant.date | split: '-' -%}
+            {%- assign year = parts[0] -%}
+            {%- assign month = parts[1] | default: '' -%}
+            {%- if month != '' -%}
+              {%- assign date = month | append: '.' | append: year -%}
+            {%- else -%}
+              {%- assign date = year -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign date = '' -%}
+          {%- endif -%}
+
           <table class="table-cv">
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    {{ date }}
+                  </span>
                 </td>
               </tr>
-              {% if content.location %}
-                <tr>
-                  <td>
-                    <p class="location">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ content.location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
             </tbody>
           </table>
         </div>
+
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.position }}</a>
+            {%- if grant.url -%}
+              <a href="{{ grant.url }}">{{ grant.funder }}</a>
+            {%- else -%}
+              {{ grant.funder }}
+            {%- endif -%}
           </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.organization }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
-          <ul class="items">
-            {% for item in content.highlights %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+
+          {%- if grant.value -%}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              {{ grant.value }}
+            </h6>
+          {%- endif -%}
+
+          {%- if grant.summary -%}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
+              {{ grant.summary }}
+            </h6>
+          {%- endif -%}
         </div>
       </div>
     </li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>
