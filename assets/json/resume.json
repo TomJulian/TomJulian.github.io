@@ -45,8 +45,8 @@
       "url": "https://www.manchester.ac.uk/",
       "area": "Artificial Intelligence in Ophthalmology",
       "studyType": "PhD",
-      "startDate": "08.2024",
-      "endDate": "In Progress",
+      "startDate": "2024-08",
+      "endDate": "2027-07",
       "summary": "I am currently undertaking a PhD in which I am integrating deep learning approaches (e.g. autoencoders, latent diffusion models, GANs) and omics data (e.g. genomics and metabolomics) to explore clinical questions surrounding the role of ophthalmic imaging in ocular and systemic health."
     },   
     {
@@ -55,8 +55,8 @@
       "url": "https://sheffield.ac.uk/",
       "area": "Clinical Research",
       "studyType": "PGCert",
-      "startDate": "08.2019",
-      "endDate": "08.2021",
+      "startDate": "2019-08",
+      "endDate": "2021-08",
       "summary": "I developed skills to critically evaluate research and handle the practical and regulatory challenges of designing and conducting clinical and health research projects."
     },    
     {
@@ -65,8 +65,8 @@
       "url": "https://sheffield.ac.uk/",
       "area": "Medicine and Surgery",
       "studyType": "MBChB",
-      "startDate": "08.2013",
-      "endDate": "08.2021",
+      "startDate": "2013-08",
+      "endDate": "2021-08",
       "summary": "I completed my medical degree and subsequently received my license to practice as a medical doctor. During my studies, I held additional responsibilities including serving as President of Sheffield Medical Society; lecturing and small group mentorship to first year students in the MBChB programme; and serving on every Medical School Faculty steering group. In recognition of my roles, I won the Outstanding Student Contribution Award at the Annual Academic Awards (2018) and was recognised as an Associate Fellow of the Higher Education Academy (2018)."
     }, 
     {
@@ -75,8 +75,8 @@
       "url": "https://sheffield.ac.uk/",
       "area": "Clinical Neurology",
       "studyType": "MSc",
-      "startDate": "08.2017",
-      "endDate": "08.2018",
+      "startDate": "2017-08",
+      "endDate": "2018-08",
       "Grade": "Distinction, with the joint-highest overall exam score in my cohort.",
       "summary": "I studied neurological disease and how clinical research breakthroughs are translated into treatments. I utilised my research block to undertake evidence synthesis projects."
     }
@@ -84,21 +84,21 @@
   "awards": [
     {
       "title": "Best Oral Presentation",
-      "date": "09/06/2023",
+      "date": "2023-06",
       "awarder": "The UK Eye Genetics Group (UK-EGG)",
       "url": "https://ukegg.com/",
       "summary": "I won the best oral presentation prize at the UK-EGG annual conference for my causal inference work in age-related macular degeneration and glaucoma."
     },
         {
       "title": "Best Oral Presentation",
-      "date": "13/07/2023",
+      "date": "2023-07",
       "awarder": "Manchester Vision Network (MVN)",
       "url": "https://sites.manchester.ac.uk/manchester-vision-network/",
       "summary": "I won the best oral presentation prize at the MVN annual conference for my causal inference work in age-related macular degeneration."
     },
         {
       "title": "Best Poster Presentation",
-      "date": "16/06/2022",
+      "date": "2022-06",
       "awarder": "The Integrated Clinical Academic Training Symposium",
       "url": "https://sites.manchester.ac.uk/icat/",
       "summary": "I won the best poster prize for my Mendelian randomisation work in age-related macular degeneration."
