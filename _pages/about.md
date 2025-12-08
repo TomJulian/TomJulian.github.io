@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am an Academic Ophthalmologist working at Manchester Royal Eye Hospital and the University of Manchester. I work in the domains of medical image analysis, deep learning, and multi-omics. As a clinician with the ability to utilise complex computational workflows, I am well placed to answer clinical questions using state-of-the-art methodologies. For the most part, the clinical focus of my work is built around ophthalmic and neurodegenerative diseases. Currently, I am working in three key themes: (1) exploring the relationship between ophthalmic imaging traits and systemic disease, (2) using multi-omic pipelines to study determinants of human diseases, and (3) causal inference studies. I am interested in using deep learning techniques to address biological questions and develop risk prediction models, and I have previously used variational autoencoders and adversarial autoencoders to achieve this. In the remainder of my PhD, I am building on my existing experience by using a range of generative artificial intelligence architectures to address real-world clinical problems. 
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
