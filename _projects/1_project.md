@@ -2,6 +2,7 @@
 layout: page
 title: Deep Learning
 description: with background image
+category: "Deep Learning"
 img: assets/img/12.jpg
 importance: 1
 category: work
