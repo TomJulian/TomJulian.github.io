@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>The Christabel Pankhurst Building</p>
-    <p>Dover St</p>
+    <p>Christabel Pankhurst Building,University of Manchester</p>
+    <p>Dover St,</p>
     <p>Manchester, M13 9PS</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
