@@ -47,7 +47,7 @@
       "studyType": "PhD",
       "startDate": "August 2024",
       "endDate": "In Progress",
-      "summary": "I am currently undertaking a PhD in which I am integrating deep learning approaches (e.g. autoencoders, latent diffusion models, GANs) and omics data (e.g. genomics and metabolomics) to explore clinical questions surrounding the role of ophthalmic imaging in ocular and systemic health.",
+      "summary": "I am currently undertaking a PhD in which I am integrating deep learning approaches (e.g. autoencoders, latent diffusion models, GANs) and omics data (e.g. genomics and metabolomics) to explore clinical questions surrounding the role of ophthalmic imaging in ocular and systemic health."
     },   
     {
       "institution": "University of Sheffield",
@@ -57,7 +57,7 @@
       "studyType": "PGCert",
       "startDate": "August 2019",
       "endDate": "August 2021",
-      "summary": "I developed skills to critically evaluate research and handle the practical and regulatory challenges of designing and conducting clinical and health research projects.",
+      "summary": "I developed skills to critically evaluate research and handle the practical and regulatory challenges of designing and conducting clinical and health research projects."
     },    
     {
       "institution": "University of Sheffield",
@@ -67,7 +67,7 @@
       "studyType": "MBChB",
       "startDate": "August 2013",
       "endDate": "August 2021",
-      "summary": "I completed my medical degree and subsequently received my license to practice as a medical doctor. During my studies, I held additional responsibilities including serving as President of Sheffield Medical Society; lecturing and small group mentorship to first year students in the MBChB programme; and serving on every Medical School Faculty steering group. In recognition of my roles, I won the Outstanding Student Contribution Award at the Annual Academic Awards (2018) and was recognised as an Associate Fellow of the Higher Education Academy (2018).",
+      "summary": "I completed my medical degree and subsequently received my license to practice as a medical doctor. During my studies, I held additional responsibilities including serving as President of Sheffield Medical Society; lecturing and small group mentorship to first year students in the MBChB programme; and serving on every Medical School Faculty steering group. In recognition of my roles, I won the Outstanding Student Contribution Award at the Annual Academic Awards (2018) and was recognised as an Associate Fellow of the Higher Education Academy (2018)."
     }, 
     {
       "institution": "University of Sheffield",
@@ -78,7 +78,7 @@
       "startDate": "August 2017",
       "endDate": "August 2018",
       "Grade": "Distinction, with the joint-highest overall exam score in my cohort.",
-      "summary": "I studied neurological disease and how clinical research breakthroughs are translated into treatments. I utilised my research block to undertake evidence synthesis projects.",
+      "summary": "I studied neurological disease and how clinical research breakthroughs are translated into treatments. I utilised my research block to undertake evidence synthesis projects."
     }
   ],
   "awards": [
@@ -117,7 +117,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Autoencoders",
-        "Linear Neural Networks",
+        "Linear Neural Networks"
       ]
     },
         {
@@ -125,7 +125,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Genomics",
-        "Metabolomics",
+        "Metabolomics"
       ]
         },
         {
@@ -170,19 +170,19 @@
       "funder": "Medical Research Council, Clinical Research Training Fellowship",
       "summary": "This grant is supporting me to undertake a PhD focussed on the role of deep learning for systemic disease prediction using Ophthalmic imaging.",
       "value": "£288,251",
-      "award date": "13.03.2024",
+      "award date": "13.03.2024"
     },
         {
       "funder": "National Institute for Health Research, Manchester Biomedical Research Council",
       "summary": "This grant served to contribute toward to development of a large Ophthalmic imaging cohort based in Manchester.",
       "value": "£25,000",
-      "award date": "27.02.2024",
+      "award date": "27.02.2024"
     },
         {
       "funder": "The Wellcome Trust, Wellcome Institutional Strategic Support Fund",
       "summary": "This grant funded causal inference work undertaken in the domains of glaucoma and age-related macular degeneration.",
       "value": "£23,500",
-      "award date": "10.03.2022",
+      "award date": "10.03.2022"
     }    
   ]
 }
