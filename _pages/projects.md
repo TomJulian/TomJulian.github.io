@@ -5,7 +5,7 @@ permalink: /projects/
 description: Past and present projects I have worked on, either as a lead or through collaborations. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: ["Deep Learning", "Causal Inference", "Genomics"]
 horizontal: false
 ---
 
