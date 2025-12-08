@@ -154,14 +154,14 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Deep learning",
-        "Causal inference",
+        "Causal inference"
       ]
     {
       "name": "Omics based biological discovery",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Metabolomics",
-        "Genomics",
+        "Genomics"
       ]      
     }
   ],
