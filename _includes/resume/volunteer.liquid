@@ -4,9 +4,9 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {%- if grant.awardDate -%}
+          {%- if grant.date -%}
             {%- comment -%}
-              awardDate expected as YYYY-MM or YYYY-MM-DD
+              date expected as YYYY-MM or YYYY-MM-DD
             {%- endcomment -%}
             {%- assign parts = grant.date | split: '-' -%}
             {%- assign year = parts[0] -%}
