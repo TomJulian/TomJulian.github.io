@@ -1,0 +1,3 @@
+Professor Alejandro Frangi FREng FIEEE holds the Bicentenary Turing Chair in Computational Medicine at the University of Manchester. He is also the Director of the Christabel Pankhurst Institute, working to support health tech innovation translation in Greater Manchester.
+
+His research interests focus on the intersection of medical image analysis and modelling, with particular emphasis on machine learning (phenomenological models) and computational physiology (mechanistic models). He is especially interested in statistical methods applied to population imaging and in silico clinical trials. His interdisciplinary work has found applications across cardiovascular, musculoskeletal, and neuroscience domains.
