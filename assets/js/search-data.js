@@ -406,7 +406,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-genomics",
           title: 'Genomics',
-          description: "Our work exploring how the eye links to systemic health",
+          description: "We are using genetic data to explore the biology of health and imaging traits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-causal-inference",
