@@ -399,9 +399,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-ve-updated-our-study-on-the-relationship-between-the-eye-and-systemic-health-updated-an-pre-print-link-is-coming-soon-eyes",
           title: 'We’ve updated our study on the relationship between the eye and systemic health...',
           description: "",
-          section: "News",},{id: "projects-deep-learning",
-          title: 'Deep Learning',
-          description: "with background image",
+          section: "News",},{id: "projects-oculomics",
+          title: 'Oculomics',
+          description: "Our work exploring how the eye links to systemic health",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-genomics",
