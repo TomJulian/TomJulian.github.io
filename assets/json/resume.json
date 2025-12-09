@@ -165,7 +165,7 @@
       ]      
     }
   ],
-  "Grants": [
+  "grants": [
     {
       "funder": "Medical Research Council, Clinical Research Training Fellowship",
       "summary": "This grant is supporting me to undertake a PhD focussed on the role of deep learning for systemic disease prediction using Ophthalmic imaging.",
