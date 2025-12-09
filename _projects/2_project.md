@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genomics 
-description: Our work exploring how the eye links to systemic health
+description: We are using genetic data to explore the biology of health and imaging traits
 category: "Omics"
 img: assets/img/dna.png
 importance: 2
