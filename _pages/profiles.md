@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: Panos.jpg
     content: about_panos.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Manchester Centre for Genomic Medicine, Saint Mary's Hospital,</p>
       <p>Manchester University NHS Foundation Trust,</p>
@@ -20,7 +20,7 @@ profiles:
   - align: left
     image: alex.jpg
     content: about_alex.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Christabel Pankhurst Building,</p>
       <p>University of Manchester,Dover St,</p>
