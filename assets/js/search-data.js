@@ -397,14 +397,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-ve-updated-our-study-on-the-relationship-between-the-eye-and-systemic-health-updated-an-pre-print-link-is-comign-soon-eyes",
-          title: 'We’ve updated our study on the relationship between the eye and systemic health...',
-          description: "",
-          section: "News",},{id: "news-a-new-phd-position-is-available-in-our-group-click-the-link-for-details",
+            },},{id: "news-a-new-phd-position-is-available-in-our-group-click-the-link-for-details",
           title: 'A new PhD position is available in our group! Click the link for...',
           description: "",
           section: "News",},{id: "news-we-published-a-new-paper-on-the-role-of-oct-in-prediction-of-cardiovascular-disease",
           title: 'We published a new paper on the role of OCT in prediction of...',
+          description: "",
+          section: "News",},{id: "news-we-ve-updated-our-study-on-the-relationship-between-the-eye-and-systemic-health-updated-an-pre-print-link-is-coming-soon-eyes",
+          title: 'We’ve updated our study on the relationship between the eye and systemic health...',
           description: "",
           section: "News",},{id: "projects-deep-learning",
           title: 'Deep Learning',
