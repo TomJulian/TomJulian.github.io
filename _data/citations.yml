@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-25'
 papers:
   dZLN9mQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: 'Alcohol-induced autonomic dysfunction: a systematic review'
     year: '2020'
   dZLN9mQAAAAJ:HDshCWvjkbEC:
-    citations: 0
+    citations: 1
     title: Mendelian randomisation studies of optical coherence tomography-derived retinal phenotypes and cardiovascular disease
     year: '2025'
   dZLN9mQAAAAJ:IWHjjKOFINEC:
@@ -74,7 +74,7 @@ papers:
     title: SESSION 8B PRECLINICAL AND PRODROMAL ALS
     year: Unknown Year
   dZLN9mQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 29
+    citations: 30
     title: "Human immunodeficiency virus\u2013related peripheral neuropathy: A systematic review and meta\u2010analysis"
     year: '2021'
   dZLN9mQAAAAJ:ULOm3_A8WrAC:
@@ -117,6 +117,10 @@ papers:
     citations: 1
     title: Alcohol-related autonomic dysfunction and peripheral neuropathy
     year: '2023'
+  dZLN9mQAAAAJ:_Qo2XoVZTnwC:
+    citations: 0
+    title: 'Ophthalmic Features in Stroke Patients: A Systematic Review of Imaging Studies'
+    year: '2026'
   dZLN9mQAAAAJ:_kc_bZDykSQC:
     citations: 9
     title: Rare and common genetic determinants of mitochondrial function determine severity but not risk of amyotrophic lateral sclerosis
@@ -142,7 +146,7 @@ papers:
     title: 'Ophthalmic imaging as a measure of cardiovascular and neurological health: a multi-omic analysis of deep-learning derived phenotypes'
     year: '2025'
   dZLN9mQAAAAJ:hFOr9nPyWt4C:
-    citations: 2
+    citations: 3
     title: Predicting cardiovascular disease risk using retinal optical coherence tomography imaging
     year: '2025'
   dZLN9mQAAAAJ:hqOjcs7Dif8C:
