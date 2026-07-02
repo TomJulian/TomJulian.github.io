@@ -405,7 +405,7 @@ ninja.data = [{
           section: "News",},{id: "news-brain-check-out-our-collaborative-work-with-the-great-team-at-sitran-focussed-on-exploring-metabolites-with-causal-roles-in-mnd-risk-here",
           title: ':brain: Check out our collaborative work with the great team at SITraN -...',
           description: "",
-          section: "News",},{id: "news-we-have-published-a-review-surrounding-the-retinal-features-present-in-people-with-stroke-in-current-eye-research-check-the-pre-print-abstract-out-here",
+          section: "News",},{id: "news-we-have-published-a-review-surrounding-the-retinal-features-present-in-people-with-stroke-in-current-eye-research-read-it-here",
           title: '📖 We have published a review surrounding the retinal features present in people...',
           description: "",
           section: "News",},{id: "projects-oculomics",
