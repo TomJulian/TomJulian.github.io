@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-24'
 papers:
   dZLN9mQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Unbiased metabolome screen links serum urate to risk of Alzheimer's disease
     year: '2022'
   dZLN9mQAAAAJ:2osOgNQ5qMEC:
-    citations: 124
+    citations: 126
     title: 'B12 as a treatment for peripheral neuropathic pain: a systematic review'
     year: '2020'
   dZLN9mQAAAAJ:3fE2CSJIrl8C:
-    citations: 15
+    citations: 16
     title: 'Causal factors in primary open angle glaucoma: a phenome-wide Mendelian randomisation study'
     year: '2023'
   dZLN9mQAAAAJ:4DMP91E08xMC:
@@ -58,7 +58,7 @@ papers:
     title: Genetic insights into foveal morphology and its associations with pigmentation and age-related macular degeneration
     year: '2025'
   dZLN9mQAAAAJ:IjCSPb-OGe4C:
-    citations: 215
+    citations: 216
     title: 'Quality of life in painful peripheral neuropathies: a systematic review'
     year: '2019'
   dZLN9mQAAAAJ:LkGwnXOMwfcC:
@@ -70,7 +70,7 @@ papers:
     title: Predicting risk of cardiovascular disease using retinal oct imaging
     year: '2024'
   dZLN9mQAAAAJ:RHpTSmoSYBkC:
-    citations: 0
+    citations: 1
     title: Multi-omic analysis of deep learning-derived phenotypes links ophthalmic imaging to cardiovascular and neurological traits
     year: '2026'
   dZLN9mQAAAAJ:Se3iqnhoufwC:
@@ -90,7 +90,7 @@ papers:
     title: "Mendelian randomization study with clinical follow\u2010up links metabolites to risk and severity of pulmonary arterial hypertension"
     year: '2024'
   dZLN9mQAAAAJ:UeHWp8X0CEIC:
-    citations: 103
+    citations: 104
     title: 'Headache associated with coeliac disease: a systematic review and meta-analysis'
     year: '2018'
   dZLN9mQAAAAJ:UebtZRa9Y70C:
@@ -114,11 +114,11 @@ papers:
     title: 'Physical exercise is a risk factor for amyotrophic lateral sclerosis: Convergent evidence from Mendelian randomisation, transcriptomics and risk genotypes. EBioMedicine 68: 103397'
     year: '2021'
   dZLN9mQAAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 12
     title: Sampling trabecular meshwork using TrabEx+
     year: '2021'
   dZLN9mQAAAAJ:ZeXyd9-uunAC:
-    citations: 3
+    citations: 4
     title: Extreme exercise in males is linked to mTOR signalling and onset of amyotrophic lateral sclerosis
     year: '2025'
   dZLN9mQAAAAJ:Zph67rFs4hoC:
@@ -138,7 +138,7 @@ papers:
     title: Predicting risk of cardiovascular disease using retinal oct imaging
     year: '2024'
   dZLN9mQAAAAJ:d1gkVwhDpl0C:
-    citations: 67
+    citations: 68
     title: 'Gluten sensitivity and epilepsy: a systematic review'
     year: '2019'
   dZLN9mQAAAAJ:dhFuZR0502QC:
@@ -146,7 +146,7 @@ papers:
     title: Theme 01-EPIDEMIOLOGY AND INFORMATICS.
     year: '2021'
   dZLN9mQAAAAJ:eQOLeE2rZwMC:
-    citations: 145
+    citations: 147
     title: 'Physical exercise is a risk factor for amyotrophic lateral sclerosis: Convergent evidence from Mendelian randomisation, transcriptomics and risk genotypes'
     year: '2021'
   dZLN9mQAAAAJ:hC7cP41nSMkC:
@@ -194,7 +194,7 @@ papers:
     title: 'Surgical vs non-surgical management of Weber B fractures: a systematic review'
     year: '2020'
   dZLN9mQAAAAJ:ufrVoPGSRksC:
-    citations: 12
+    citations: 13
     title: "Higher admission activated partial thromboplastin time, neutrophil-lymphocyte ratio, serum sodium, and anticoagulant use predict in-hospital COVID-19 mortality in people with \u2026"
     year: '2021'
   dZLN9mQAAAAJ:zYLM7Y9cAGgC:
