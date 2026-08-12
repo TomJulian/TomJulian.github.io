@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-12'
 papers:
   dZLN9mQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Unbiased metabolome screen links serum urate to risk of Alzheimer's disease
     year: '2022'
   dZLN9mQAAAAJ:2osOgNQ5qMEC:
-    citations: 126
+    citations: 127
     title: 'B12 as a treatment for peripheral neuropathic pain: a systematic review'
     year: '2020'
   dZLN9mQAAAAJ:3fE2CSJIrl8C:
-    citations: 17
+    citations: 18
     title: 'Causal factors in primary open angle glaucoma: a phenome-wide Mendelian randomisation study'
     year: '2023'
   dZLN9mQAAAAJ:4DMP91E08xMC:
@@ -26,7 +26,7 @@ papers:
     title: A multi-omic exploration of how ophthalmic imaging features relate to cardiovascular and neurodegenerative disease.
     year: '2026'
   dZLN9mQAAAAJ:4TOpqqG69KYC:
-    citations: 41
+    citations: 42
     title: 'Retinal imaging for the assessment of stroke risk: a systematic review'
     year: '2024'
   dZLN9mQAAAAJ:5nxA0vEk-isC:
@@ -46,7 +46,7 @@ papers:
     title: 'Pigmentation and retinal pigment epithelium thickness: a study of the phenotypic and genotypic relationships between ocular and extraocular pigmented tissues'
     year: '2025'
   dZLN9mQAAAAJ:9yKSN-GCB0IC:
-    citations: 62
+    citations: 63
     title: 'Alcohol-induced autonomic dysfunction: a systematic review'
     year: '2020'
   dZLN9mQAAAAJ:HDshCWvjkbEC:
@@ -58,7 +58,7 @@ papers:
     title: Genetic insights into foveal morphology and its associations with pigmentation and age-related macular degeneration
     year: '2025'
   dZLN9mQAAAAJ:IjCSPb-OGe4C:
-    citations: 213
+    citations: 216
     title: 'Quality of life in painful peripheral neuropathies: a systematic review'
     year: '2019'
   dZLN9mQAAAAJ:LkGwnXOMwfcC:
@@ -130,7 +130,7 @@ papers:
     title: 'Ophthalmic Features in Stroke Patients: A Systematic Review of Imaging Studies'
     year: '2026'
   dZLN9mQAAAAJ:_kc_bZDykSQC:
-    citations: 13
+    citations: 14
     title: Rare and common genetic determinants of mitochondrial function determine severity but not risk of amyotrophic lateral sclerosis
     year: '2024'
   dZLN9mQAAAAJ:aqlVkmm33-oC:
@@ -158,7 +158,7 @@ papers:
     title: Predicting cardiovascular disease risk using retinal optical coherence tomography imaging
     year: '2025'
   dZLN9mQAAAAJ:hqOjcs7Dif8C:
-    citations: 32
+    citations: 33
     title: Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity
     year: '2022'
   dZLN9mQAAAAJ:j3f4tGmQtD8C:
@@ -178,7 +178,7 @@ papers:
     title: Unbiased Metabolome Screen Links Serum Urate to Risk of Alzheimer's Disease
     year: '2022'
   dZLN9mQAAAAJ:qjMakFHDy7sC:
-    citations: 233
+    citations: 234
     title: 'Alcohol-related peripheral neuropathy: a systematic review and meta-analysis'
     year: '2019'
   dZLN9mQAAAAJ:qxL8FJ1GzNcC:
