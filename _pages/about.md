@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Manchester & Manchester Royal Eye Hospital
+subtitle: University of Manchester & Manchester Royal Eye Hospital
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Christabel Pankhurst Building,University of Manchester</p>
+    <p>Christabel Pankhurst Building, University of Manchester</p>
     <p>Dover St,</p>
     <p>Manchester, M13 9PS</p>
 

@@ -32,7 +32,6 @@
     {
       "name": "University of Manchester & Manchester Royal Eye Hospital",
       "position": "Research Fellow & Ophthalmology Resident Doctor",
-      "url": "https://example.com",
       "startDate": "2021-08",
       "summary": "In my clinical role, I work in surgical, clinic and emergency settings at Manchester Royal Eye Hospital. In my academic role, I deliver clinically focussed research using (1) medical image analysis and (2) multi-omic analyses.",
       "highlights": ["Ophthalmology", "Deep Learning", "Genomics", "Metabolomics", "Causal Inference"]
