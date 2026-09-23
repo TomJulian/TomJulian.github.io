@@ -11,35 +11,35 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Publications, in reverse chronological order.",
+          description: "Journal articles, preprints, conference abstracts, and chapters in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "The connected themes that shape my research programme.",
+        },{id: "nav-research",
+          title: "research",
+          description: "The connected themes and questions that shape my research programme.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Thanks for checking out my repos! This page will be updated periodically at the termination of projects.",
+        },{id: "nav-code-amp-resources",
+          title: "code &amp; resources",
+          description: "Reusable research tools and model resources that can be shared publicly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
+        },{id: "nav-background",
+          title: "background",
+          description: "Clinical, academic, and research background.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "Mentors and collaborators",
+        },{id: "nav-collaborations",
+          title: "collaborations",
+          description: "How I work with academic and industry partners.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -49,23 +49,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-phd-position-is-available-in-our-group-click-the-link-for-details",
-          title: 'A new PhD position is available in our group! Click the link for...',
+            },},{id: "news-we-published-a-review-examining-the-potential-role-of-optical-coherence-tomography-in-cardiovascular-risk-prediction",
+          title: 'We published a review examining the potential role of optical coherence tomography in...',
           description: "",
-          section: "News",},{id: "news-we-published-a-new-paper-on-the-role-of-oct-in-prediction-of-cardiovascular-disease",
-          title: 'We published a new paper on the role of OCT in prediction of...',
+          section: "News",},{id: "news-our-collaborative-work-with-the-team-at-sitran-investigates-metabolites-with-potential-causal-roles-in-motor-neurone-disease-risk-read-the-paper",
+          title: 'Our collaborative work with the team at SITraN investigates metabolites with potential causal...',
           description: "",
-          section: "News",},{id: "news-we-ve-updated-our-study-on-the-relationship-between-the-eye-and-systemic-health-updated-an-pre-print-link-is-coming-soon-eyes",
-          title: 'We’ve updated our study on the relationship between the eye and systemic health...',
+          section: "News",},{id: "news-we-published-a-review-in-current-eye-research-examining-retinal-features-reported-in-people-with-stroke-read-the-paper",
+          title: 'We published a review in Current Eye Research examining retinal features reported in...',
           description: "",
-          section: "News",},{id: "news-man-scientist-our-pre-print-focussed-on-exploring-the-mechanistic-links-between-the-appearance-of-the-eye-and-systemic-health-using-deep-learning-robot-and-multi-omics-dna-data-is-now-updated-check-it-out-here",
-          title: ':man_scientist: Our pre-print focussed on exploring the mechanistic links between the appearance of...',
-          description: "",
-          section: "News",},{id: "news-brain-check-out-our-collaborative-work-with-the-great-team-at-sitran-focussed-on-exploring-metabolites-with-causal-roles-in-mnd-risk-here",
-          title: ':brain: Check out our collaborative work with the great team at SITraN -...',
-          description: "",
-          section: "News",},{id: "news-we-have-published-a-review-surrounding-the-retinal-features-present-in-people-with-stroke-in-current-eye-research-read-it-here",
-          title: '📖 We have published a review surrounding the retinal features present in people...',
+          section: "News",},{id: "news-our-multi-omic-study-of-deep-learning-derived-ophthalmic-imaging-phenotypes-is-now-published-in-nature-cardiovascular-research-the-work-links-imaging-features-with-genetic-metabolic-anatomical-cardiovascular-and-neurological-traits-read-the-paper",
+          title: 'Our multi-omic study of deep learning-derived ophthalmic imaging phenotypes is now published in...',
           description: "",
           section: "News",},{id: "projects-imaging-phenotyping",
           title: 'Imaging phenotyping',
@@ -87,31 +81,6 @@ ninja.data = [{
           description: "Building the evidence needed to develop and evaluate clinically useful AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -125,6 +94,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/TomJulian", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/thomas-julian-3ab293210", "_blank");
         },
       },{
         id: 'social-researchgate',
