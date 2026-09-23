@@ -14,7 +14,6 @@ These phenotypes can support studies of disease mechanisms, improve the measurem
 
 This work includes the study of retinal layer thickness, foveal morphology, and deep learning-derived imaging features{% cite julian2025pigmentation green2025genetic julian2026multiomic %}.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/En_face_WF_OCTA_Julian.bmp" title="En face optical coherence tomography image" class="img-fluid rounded z-depth-1" %}

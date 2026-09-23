@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am an **ophthalmologist and clinical academic** working across imaging phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates how detailed features derived from ophthalmic images can advance our understanding of eye disease and reveal relationships between the eye and systemic health.
 
 My work spans scientific discovery and clinical translation: developing imaging phenotypes, investigating their genetic and biological basis, building clinical research datasets, and evaluating whether these findings can support useful clinical tools. I am particularly interested in collaborations that bring together academics, clinicians, and industry partners around important clinical questions.
