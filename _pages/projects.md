@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Past and present projects I have worked on, either as a lead or through collaborations. 
+description: The connected themes that shape my research programme.
 nav: true
 nav_order: 3
-display_categories: ["Artificial Intelligence", "Omics"]
+display_categories: ["Research themes"]
 horizontal: false
 ---
+
+My work follows a connected path from images to phenotypes, biological discovery, systemic insights, and clinical translation.
 
 <!-- pages/projects.md -->
 <div class="projects">
