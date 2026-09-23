@@ -2,7 +2,7 @@
 layout: page
 title: Research datasets and clinical translation
 description: Building the evidence needed to develop and evaluate clinically useful AI
-img: assets/img/ai.png
+img: assets/img/Widefield_OCTA_Julian.bmp
 importance: 4
 category: "Research themes"
 ---

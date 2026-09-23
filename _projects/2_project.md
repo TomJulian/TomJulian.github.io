@@ -3,7 +3,7 @@ layout: page
 title: Genetic and multi-omic discovery
 description: Investigating the biology underlying imaging phenotypes and ophthalmic disease
 category: "Research themes"
-img: assets/img/dna.png
+img: assets/img/En_face_WF_OCTA_Julian.bmp
 importance: 2
 related_publications: true
 ---

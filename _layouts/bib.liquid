@@ -47,6 +47,18 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    {% assign note_lower = entry.note | downcase %}
+    {% assign publication_type = 'Journal article' %}
+    {% if note_lower contains 'preprint' %}
+      {% assign publication_type = 'Preprint' %}
+    {% elsif entry.type == 'inproceedings' %}
+      {% assign publication_type = 'Conference abstract' %}
+    {% elsif entry.type == 'incollection' %}
+      {% assign publication_type = 'Book chapter' %}
+    {% elsif entry.journal contains 'Investigative Ophthalmology' %}
+      {% assign publication_type = 'Conference abstract' %}
+    {% endif %}
+    <span class="publication-type">{{ publication_type }}</span>
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->

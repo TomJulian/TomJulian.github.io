@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: The connected themes that shape my research programme.
+description: The connected themes and questions that shape my research programme.
 nav: true
 nav_order: 3
 display_categories: ["Research themes"]
@@ -31,7 +31,7 @@ My work follows a connected path from images to phenotypes, biological discovery
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -57,7 +57,7 @@ My work follows a connected path from images to phenotypes, biological discovery
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}

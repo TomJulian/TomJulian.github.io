@@ -7,7 +7,7 @@ first_name: Thomas
 middle_name: H.
 last_name: Julian
 contact_note: >
-  Email me at thomas.julian@manchester.ac.uk to get in touch!
+  Academic and industry collaboration enquiries are welcome.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Thomas H. Julian is an academic ophthalmologist researching medical imaging, deep learning, and multi-omics.
 footer_text: >
@@ -632,12 +632,4 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
   - skills
-  - languages
-  - interests
-  - references
