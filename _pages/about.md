@@ -26,10 +26,22 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an **Ophthalmology Resident** at the Manchester Royal Eye Hospital, **Clinical Research Fellow** at the University of Manchester, and **Clinical Lead** at Oculomex, working across clinical medicine, machine learning, and translational/discovery research.
- 
-My research focuses on representation learning in medical imaging for disease risk modelling and biological discovery. I develop clinically grounded analyses that integrate imaging, genetic, and multi-omic data to identify systemic disease signals and uncover underlying mechanisms. I work across the full research pipeline, from hypothesis formulation and grant development to dataset construction, model development, statistical analysis, and clinical interpretation - allowing me to bridge computational and clinical domains.
- 
-Clinically, I am training in a high-volume tertiary referral centre, with experience across the range of Ophthalmic subspecialties. My clinical exposure has informed my research priorities, particularly surrounding the use of ophthalmic imaging as a window into systemic health.
- 
-At Oculomex, I lead clinical strategy for the development of AI-enabled screening tools aimed at improving early detection of cardiovascular disease. My role centres on ensuring that Oculomex products remains clinically meaningful, evidence-based, and aligned with real-world patient benefit.
+I am an **ophthalmologist and clinical academic** working across imaging phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates how detailed features derived from ophthalmic images can advance our understanding of eye disease and reveal relationships between the eye and systemic health.
+
+My work spans scientific discovery and clinical translation: developing imaging phenotypes, investigating their genetic and biological basis, building clinical research datasets, and evaluating whether these findings can support useful clinical tools. I am particularly interested in collaborations that bring together academics, clinicians, and industry partners around important clinical questions.
+
+## Research themes
+
+My research connects four areas: [imaging phenotyping](/projects/1_project/), [genetic and multi-omic discovery](/projects/2_project/), [the eye and systemic health](/projects/3_project/), and the development of [research datasets for clinical translation](/projects/4_project/).
+
+## Oculomex
+
+Alongside my academic work, I serve as **Clinical Lead at Oculomex**, where I contribute a clinical perspective to the development and evaluation of AI-enabled approaches to assessing systemic health through ophthalmic imaging.
+
+This role allows me to explore the practical requirements for responsible translation, from identifying clinically meaningful questions to validation and potential integration into care pathways.
+
+## Collaboration
+
+I welcome conversations with academic and industry partners interested in ophthalmic imaging, imaging phenotyping, genetics, multi-omic research, clinically grounded AI evaluation, prospective studies, and responsible clinical translation.
+
+I am also happy to discuss research supervision, collaborative grant development, and speaking opportunities.
