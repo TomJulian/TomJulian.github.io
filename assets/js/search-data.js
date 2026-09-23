@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Past and present projects I have worked on, either as a lead or through collaborations.",
+          description: "The connected themes that shape my research programme.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -67,24 +67,24 @@ ninja.data = [{
           section: "News",},{id: "news-we-have-published-a-review-surrounding-the-retinal-features-present-in-people-with-stroke-in-current-eye-research-read-it-here",
           title: '📖 We have published a review surrounding the retinal features present in people...',
           description: "",
-          section: "News",},{id: "projects-oculomics",
-          title: 'Oculomics',
-          description: "Our work exploring how the eye links to systemic health",
+          section: "News",},{id: "projects-imaging-phenotyping",
+          title: 'Imaging phenotyping',
+          description: "Deriving detailed and reproducible phenotypes from ophthalmic images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-genomics",
-          title: 'Genomics',
-          description: "We are using genetic data to explore the biology of health and imaging traits",
+            },},{id: "projects-genetic-and-multi-omic-discovery",
+          title: 'Genetic and multi-omic discovery',
+          description: "Investigating the biology underlying imaging phenotypes and ophthalmic disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-causal-inference",
-          title: 'Causal Inference',
-          description: "a project that redirects to another website",
+            },},{id: "projects-the-eye-and-systemic-health",
+          title: 'The eye and systemic health',
+          description: "Exploring what ophthalmic imaging can reveal about health elsewhere in the body",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-research-datasets-and-clinical-translation",
+          title: 'Research datasets and clinical translation',
+          description: "Building the evidence needed to develop and evaluate clinically useful AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
