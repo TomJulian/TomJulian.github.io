@@ -1,10 +1,10 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
 description: The connected themes and questions that shape my research programme.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: ["Research themes"]
 horizontal: false
 ---

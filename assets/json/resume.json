@@ -4,7 +4,7 @@
     "label": "Ophthalmologist and Clinical Academic",
     "email": "thomas.julian@manchester.ac.uk",
     "url": "https://research.manchester.ac.uk/en/persons/tom-julian/",
-    "summary": "I am an ophthalmologist and clinical academic working across imaging phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates what ophthalmic images can reveal about eye disease and systemic health, and how those insights can be translated into clinically useful tools.",
+    "summary": "I am an ophthalmologist and clinical academic working across image phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates what ophthalmic images can reveal about eye disease and systemic health, and how those insights can be translated into clinically useful tools.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -23,11 +23,18 @@
   },
   "work": [
     {
+      "name": "Oculomex",
+      "position": "Clinical Lead",
+      "startDate": "2026-04",
+      "summary": "Contributing clinical perspective to the development and evaluation of AI-enabled approaches to assessing systemic health through ophthalmic imaging.",
+      "highlights": ["Clinical evaluation", "AI validation", "Translation"]
+    },
+    {
       "name": "University of Manchester",
       "position": "MRC Clinical Research Training Fellow",
       "startDate": "2024-08",
-      "summary": "PhD research combining deep learning-derived ophthalmic imaging phenotypes with genetic, metabolomic, and other omics datasets to investigate eye and systemic health.",
-      "highlights": ["Imaging phenotyping", "Statistical genetics", "Multi-omics", "Clinical translation"]
+      "summary": "PhD research combining deep learning-derived ophthalmic image phenotypes with genetic, metabolomic, and other omics datasets to investigate eye and systemic health.",
+      "highlights": ["Image phenotyping", "Statistical genetics", "Multi-omics", "Clinical translation"]
     },
     {
       "name": "Manchester Royal Eye Hospital and University of Manchester",
@@ -37,10 +44,12 @@
       "highlights": ["Clinical ophthalmology", "Ophthalmic imaging", "Causal inference"]
     },
     {
-      "name": "Oculomex",
-      "position": "Clinical Lead",
-      "summary": "Contributing clinical perspective to the development and evaluation of AI-enabled approaches to assessing systemic health through ophthalmic imaging.",
-      "highlights": ["Clinical evaluation", "AI validation", "Translation"]
+      "name": "Northern General Hospital, Sheffield Teaching Hospitals",
+      "position": "Academic Foundation Programme Doctor",
+      "startDate": "2019-08",
+      "endDate": "2021-08",
+      "summary": "Combined early postgraduate clinical training with academic work in translational neuroscience and clinical research.",
+      "highlights": ["Clinical training", "Academic medicine", "Translational research"]
     }
   ],
   "education": [
@@ -50,8 +59,7 @@
       "url": "https://www.manchester.ac.uk/",
       "area": "Artificial Intelligence in Ophthalmology",
       "studyType": "PhD",
-      "startDate": "2024-08",
-      "endDate": "2027-07"
+      "startDate": "2024-08"
     },
     {
       "institution": "University of Sheffield",
@@ -69,7 +77,7 @@
       "area": "Medicine and Surgery",
       "studyType": "MBChB",
       "startDate": "2013-08",
-      "endDate": "2021-08"
+      "endDate": "2019-07"
     },
     {
       "institution": "University of Sheffield",
@@ -78,7 +86,85 @@
       "area": "Clinical Neurology",
       "studyType": "MSc",
       "startDate": "2017-08",
-      "endDate": "2018-08"
+      "endDate": "2018-10"
+    }
+  ],
+  "funding": [
+    {
+      "title": "Clinical Research Training Fellowship",
+      "date": "2024",
+      "awarder": "Medical Research Council",
+      "summary": "GBP 307,997 to support doctoral research in artificial intelligence and ophthalmology."
+    },
+    {
+      "title": "Research funding award",
+      "date": "2024",
+      "awarder": "NIHR Manchester Biomedical Research Centre",
+      "summary": "GBP 25,000 to support ophthalmic imaging research."
+    },
+    {
+      "title": "Institutional Strategic Support Fund award",
+      "date": "2022",
+      "awarder": "Wellcome Trust",
+      "summary": "GBP 23,500 to support early-stage translational research."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Kreissig Travel Grant",
+      "date": "2026",
+      "awarder": "European Society of Retina Specialists",
+      "summary": "Travel award supporting presentation at the Association for Research in Vision and Ophthalmology annual meeting."
+    },
+    {
+      "title": "Best Oral Presentation",
+      "date": "2023",
+      "awarder": "UK Eye Genetics Group",
+      "summary": "Award for oral presentation of ophthalmic genetics research."
+    },
+    {
+      "title": "Best Oral Presentation",
+      "date": "2023",
+      "awarder": "Manchester Vision Network",
+      "summary": "Award for oral presentation of ophthalmic research."
+    },
+    {
+      "title": "Best Poster Presentation",
+      "date": "2022",
+      "awarder": "Integrated Clinical Academic Training Research Showcase",
+      "summary": "Award for presentation of clinical academic research."
+    },
+    {
+      "title": "Outstanding Student Contribution",
+      "date": "2018",
+      "awarder": "University of Sheffield",
+      "summary": "Recognition of contribution to the university community."
+    }
+  ],
+  "presentations": [
+    {
+      "title": "Manchester Vision Network annual meeting",
+      "date": "2023 to 2026",
+      "awarder": "Manchester Vision Network",
+      "summary": "Presented research annually from 2023 to 2026 and helped organise the 2025 and 2026 meetings."
+    },
+    {
+      "title": "Association for Research in Vision and Ophthalmology annual meeting",
+      "date": "2024 and 2026",
+      "awarder": "ARVO",
+      "summary": "Poster presentation in 2024 and oral presentation in 2026."
+    },
+    {
+      "title": "UK Eye Genetics Group annual meeting",
+      "date": "2023",
+      "awarder": "UK Eye Genetics Group",
+      "summary": "Oral presentation of ophthalmic genetics research."
+    },
+    {
+      "title": "European Network to Cure ALS meeting",
+      "date": "2021",
+      "awarder": "ENCALS",
+      "summary": "Oral presentation of translational neuroscience research."
     }
   ],
   "skills": [
@@ -88,7 +174,7 @@
       "keywords": ["Representation learning", "Autoencoders", "Multimodal modelling"]
     },
     {
-      "name": "Imaging phenotyping",
+      "name": "Image phenotyping",
       "icon": "fa-solid fa-eye",
       "keywords": ["Optical coherence tomography", "Colour fundus photography", "Imaging-derived traits"]
     },

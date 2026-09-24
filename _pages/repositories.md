@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: code & resources
+title: Code & Resources
 description: Reusable research tools and model resources that can be shared publicly.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 I share code and model resources when they can support reproducible research and responsible reuse. This page describes what each resource does, the setting in which it was developed, and any important limits on its use.
@@ -22,6 +22,14 @@ I share code and model resources when they can support reproducible research and
   </div>
 </div>
 
-## Working together
+## CLSA vascular longitudinal associations
 
-I welcome conversations about methods, validation, clinical translation, and potential academic or industry collaborations. This page is not a route for requesting access to clinical or research datasets. For collaboration enquiries, [email me](mailto:thomas.julian@manchester.ac.uk).
+<div class="resource-item">
+  <p class="resource-kicker">Python | Associated manuscript forthcoming</p>
+  <h3>Longitudinal analysis of retinal vascular morphology</h3>
+  <p>A reproducible Python analysis workflow for studying how retinal vascular morphology changes over time in the Canadian Longitudinal Study on Aging. It prepares baseline and follow-up data, derives longitudinal change measures, tests associations with demographic, cardiovascular, metabolic, and behavioural factors, and runs survival analyses for mortality and cardiovascular outcomes.</p>
+  <p>The workflow begins with vascular measurements generated previously with AutoMorph. It does not contain retinal vessel segmentation code, CLSA source data, or a route to data access.</p>
+  <div class="resource-actions">
+    <a class="btn btn-primary" href="https://github.com/TomJulian/CLSA-Vascular-Longitudinal-Associations">View code on GitHub</a>
+  </div>
+</div>

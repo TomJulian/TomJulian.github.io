@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: University of Manchester & Manchester Royal Eye Hospital
+alternative_name: AKA Thomas H. Julian
 
 profile:
   align: right
@@ -27,9 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **ophthalmologist and clinical academic** working across imaging phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates how detailed features derived from ophthalmic images can advance our understanding of eye disease and reveal relationships between the eye and systemic health.
+I am an **ophthalmologist and clinical academic** working across image phenotyping, artificial intelligence, genetics, and multi-omics. My research investigates how detailed features derived from ophthalmic images can advance our understanding of eye disease and reveal relationships between the eye and systemic health.
 
-My work spans scientific discovery and clinical translation: developing imaging phenotypes, investigating their genetic and biological basis, building clinical research datasets, and evaluating whether these findings can support useful clinical tools. I am particularly interested in collaborations that bring together academics, clinicians, and industry partners around important clinical questions.
+My work spans scientific discovery and clinical translation: developing image phenotypes, investigating their genetic and biological basis, building clinical research datasets, and evaluating whether these findings can support useful clinical tools. I am particularly interested in collaborations that bring together academics, clinicians, and industry partners around important clinical questions.
 
 <div class="homepage-actions">
   <a class="btn btn-primary" href="mailto:thomas.julian@manchester.ac.uk">Discuss a collaboration</a>
@@ -38,7 +39,7 @@ My work spans scientific discovery and clinical translation: developing imaging 
 
 ## Research themes
 
-My research connects four areas: [imaging phenotyping](/projects/1_project/), [genetic and multi-omic discovery](/projects/2_project/), [the eye and systemic health](/projects/3_project/), and the development of [research datasets for clinical translation](/projects/4_project/).
+My research connects four areas: [image phenotyping](/projects/1_project/), [genetic and multi-omic discovery](/projects/2_project/), [the eye and systemic health](/projects/3_project/), and the development of [research datasets for clinical translation](/projects/4_project/).
 
 ## Oculomex
 
@@ -54,17 +55,17 @@ This role allows me to explore the practical requirements for responsible transl
     <p>Building large, multimodal ophthalmic research datasets from routinely collected clinical data in Manchester, supported by secured funding and appropriate approvals.</p>
   </div>
   <div>
-    <h3>Prospective imaging pilot</h3>
-    <p>Exploring the feasibility and acceptability of ophthalmic imaging within the Born in Bradford cohort through a focused pilot study.</p>
+    <h3>Disease risk modelling</h3>
+    <p>Developing and evaluating oculomics approaches that use ophthalmic images to model cardiovascular, neurological, and other systemic health risks, with an emphasis on robust evaluation and clinical relevance.</p>
   </div>
   <div>
-    <h3>Imaging phenotypes and biology</h3>
-    <p>Combining deep learning-derived ophthalmic phenotypes with genetic, metabolomic, and other omics datasets to investigate eye and systemic health.</p>
+    <h3>Image phenotyping and biology</h3>
+    <p>Combining deep learning-derived image phenotypes with genetic, metabolomic, and other omics datasets to investigate the biological mechanisms underlying retinal structure and disease.</p>
   </div>
 </div>
 
 ## Collaboration
 
-I welcome conversations with academic and industry partners interested in ophthalmic imaging, imaging phenotyping, genetics, multi-omic research, clinically grounded AI evaluation, prospective studies, and responsible clinical translation.
+I welcome conversations with academic and industry partners interested in ophthalmic imaging, image phenotyping, genetics, multi-omic research, clinically grounded AI evaluation, prospective studies, and responsible clinical translation.
 
 I am also happy to discuss research supervision, collaborative grant development, and speaking opportunities. [Read more about how I collaborate](/people/) or [get in touch](mailto:thomas.julian@manchester.ac.uk).

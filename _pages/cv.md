@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: background
+title: Resume
 nav: true
-nav_order: 5
-description: Clinical, academic, and research background.
+nav_order: 2
+description: Clinical training, academic appointments, research funding, and selected professional activity.
 toc:
   sidebar: left
 ---

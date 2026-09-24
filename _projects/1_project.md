@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imaging phenotyping
+title: Image phenotyping
 description: Deriving detailed and reproducible phenotypes from ophthalmic images
 category: "Research themes"
 img: assets/img/Topcon_fundus_photo_Julian.jpg

@@ -205,12 +205,19 @@ ul.task-list input[type="checkbox"] {
     font-family: inherit;
     font-size: 0.9rem;
     line-height: 1.45;
+    text-align: center;
 
     p {
       display: block;
       margin: 0;
     }
   }
+}
+
+.alternate-name {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  margin: -1.25rem 0 1.75rem;
 }
 
 .homepage-actions,
@@ -270,6 +277,38 @@ ul.task-list input[type="checkbox"] {
     font-weight: 600;
     margin-bottom: 0.35rem;
     text-transform: uppercase;
+  }
+}
+
+.collaborator-list {
+  display: grid;
+  gap: 0 1.5rem;
+  grid-template-columns: 1fr;
+
+  .collaborator {
+    border-top: 1px solid var(--global-divider-color);
+    padding: 1rem 0;
+
+    h3 {
+      font-size: 1.1rem;
+      margin: 0 0 0.15rem;
+    }
+
+    .affiliation {
+      color: var(--global-text-color-light);
+      font-size: 0.86rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .collaborator-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1325,6 +1364,12 @@ nav[data-toggle="toc"] {
 
 #toc-sidebar {
   z-index: 1;
+}
+
+@media (max-width: 575.98px) {
+  #toc-sidebar {
+    display: none;
+  }
 }
 
 .echarts {
