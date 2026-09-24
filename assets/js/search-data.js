@@ -4,41 +4,41 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
+  },{id: "nav-resume",
+          title: "Resume",
+          description: "Clinical training, academic appointments, research funding, and selected professional activity.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
           description: "Journal articles, preprints, conference abstracts, and chapters in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "The connected themes and questions that shape my research programme.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-code-amp-resources",
-          title: "code &amp; resources",
+          title: "Code &amp; Resources",
           description: "Reusable research tools and model resources that can be shared publicly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-background",
-          title: "background",
-          description: "Clinical, academic, and research background.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-collaborations",
-          title: "collaborations",
+          title: "Collaborations",
           description: "How I work with academic and industry partners.",
           section: "Navigation",
           handler: () => {
@@ -61,14 +61,14 @@ ninja.data = [{
           section: "News",},{id: "news-our-multi-omic-study-of-deep-learning-derived-ophthalmic-imaging-phenotypes-is-now-published-in-nature-cardiovascular-research-the-work-links-imaging-features-with-genetic-metabolic-anatomical-cardiovascular-and-neurological-traits-read-the-paper",
           title: 'Our multi-omic study of deep learning-derived ophthalmic imaging phenotypes is now published in...',
           description: "",
-          section: "News",},{id: "projects-imaging-phenotyping",
-          title: 'Imaging phenotyping',
+          section: "News",},{id: "projects-image-phenotyping",
+          title: 'Image phenotyping',
           description: "Deriving detailed and reproducible phenotypes from ophthalmic images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-genetic-and-multi-omic-discovery",
           title: 'Genetic and multi-omic discovery',
-          description: "Investigating the biology underlying imaging phenotypes and ophthalmic disease",
+          description: "Investigating the biology underlying imaging phenotypes and ophthalmic/systemic disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-the-eye-and-systemic-health",
